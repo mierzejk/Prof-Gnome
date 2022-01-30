@@ -8722,6 +8722,10 @@ viewswitcherbar actionbar > revealer > box
           padding-top: 8px;
           padding-bottom: 8px;
 }
+/* Mierzej's revision */
+window.background.csd.popup > menu > separator {
+  margin: 1px;
+}
 /* DO NOT CHANGE ANYTHNG DOWN THE LINE HERE*/
 
 @define-color color_100 shade(@color_accent,1.9);
